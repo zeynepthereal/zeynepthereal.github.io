@@ -122,7 +122,7 @@ body {
   }
   
   .job-box{
-    float: left;
+    float:middle ;
     border: solid;
     border-width: 0px 0px 3px 0px;
     box-sizing: border-box;
